@@ -1,6 +1,6 @@
 # Hello!
 
-# This is a "nodepad".
+# This is a "notepad".
 
 ## Do you like it?
 
